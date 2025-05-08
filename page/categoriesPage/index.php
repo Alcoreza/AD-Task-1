@@ -31,6 +31,9 @@
                 "Fruit Bowl"=> "Healthy",
                 "Ramen"=> "Junk",
                 "Grilled Fish"=> "Healthy",
+                "Oatmeal"=> "Healthy",
+                "Avocado"=> "Healthy",
+                "Corn Dogs" => "Junk"
             ];
 
             echo "<h4>Healthy Foods</h4><ul>";
