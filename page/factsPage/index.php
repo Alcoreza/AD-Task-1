@@ -11,6 +11,7 @@
         <a href="page/landingPage/index.php">Home</a> |
         <a href="page/factsPage/index.php">Food Facts</a> |
         <a href="page/categoriesPage/index.php">Categories</a> |
+    </div>
     <div class="card">
         <h2>Food Facts</h2>
 
