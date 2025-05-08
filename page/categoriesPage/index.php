@@ -45,5 +45,14 @@
             echo "</ul>";
         ?>
     </div>
+    <footer class="site-footer">
+    <div class="footer-content">
+        <p>&copy; <?php echo date("Y"); ?> Random Food Generator. All rights reserved.</p>
+        <div class="footer-links">
+            <a href="#">Privacy Policy</a>
+            <a href="#">Terms of Service</a>
+        </div>
+    </div>
+</footer>
 </body>
 </html>
