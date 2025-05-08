@@ -4,15 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Food Categories</title>
-    <link rel="stylesheet" href="assets/css/global.css">
-    <link rel="stylesheet" href="../../assets/css/categories.css">
+    <link rel="stylesheet" href="../../assets/css/global.css">
+    <link rel="stylesheet" href="/assets/css/categories.css">
 
 </head>
 <body>
     <div class="menu">
-        <a href="page/landingPage/index.php">Home</a> |
-        <a href="page/factsPage/index.php">Food Facts</a> |
-        <a href="page/categoriesPage/index.php">Categories</a> |
+        <a href="../../page/landingPage/index.php">Home</a> |
+        <a href="../../page/factsPage/index.php">Food Facts</a> |
+        <a href="../../page/categoriesPage/index.php">Categories</a> |
     </div>
     <div class="card">
         <h2>Food Categories</h2>
