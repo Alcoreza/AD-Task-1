@@ -32,6 +32,11 @@
             }
         ?>
     </div>
+    <div class="refresh-button-container">
+        <form method="get">
+            <button type="submit">Refresh Fact List</button>
+        </form>
+    </div>
     <footer class="site-footer">
     <div class="footer-content">
         <p>&copy; <?php echo date("Y"); ?> Random Food Generator. All rights reserved.</p>
