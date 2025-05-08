@@ -7,6 +7,11 @@
     <link rel="stylesheet" href="assets\css\global.css">
 </head>
 <body>
+    <div class="menu">
+        <a href="page\landingPage\index.php">Home</a> |
+        <a href="page\factsPage\index.php">Food Facts</a> |
+        <a href="page\categoriesPage\index.php">Categories</a> |
+    </div>
     <div class="card">
         <h2> Today's Random Food </h2>
         <?php
