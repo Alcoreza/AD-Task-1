@@ -25,19 +25,18 @@
 
             echo "<h4>Healthy Foods</h4><ul>";
             foreach ($foods as $name => $value) {
-                if($type == "Healthy"){
+                if($value == "Healthy"){
                     echo "<li>$name</li>";
                 }
             }
             echo "</ul>";
             echo "<h4>Junk Foods</h4><ul>";
             foreach ($foods as $name => $type){
-                if ($type == "Junk"){
+                if ($value == "Junk"){
                     echo "<li>$name</li>";
                 }
             }
             echo "</ul>";
-        
         ?>
     </div>
 </body>
