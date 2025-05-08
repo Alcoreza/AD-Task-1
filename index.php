@@ -36,5 +36,10 @@
             }
         ?>
     </div>
+    <div class="refresh-button-container">
+        <form method="get">
+            <button type="submit">Refresh Food List</button>
+        </form>
+    </div>
 </body>
 </html>

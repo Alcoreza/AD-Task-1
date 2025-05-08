@@ -45,6 +45,11 @@ body {
     border-radius: 6px
 }
 
+.refresh-button-container {
+    margin-top: 20px;
+    text-align: center;
+}
+
 @media (max-width: 600px){
     .menu a{
         display: block;
