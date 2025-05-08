@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Food Categories</title>
     <link rel="stylesheet" href="../../assets/css/global.css">
-    <link rel="stylesheet" href="/assets/css/categories.css">
+    <link rel="stylesheet" href="assets/css/categories.css">
 
 </head>
 <body>
@@ -13,6 +13,10 @@
         <a href="../../page/landingPage/index.php">Home</a> |
         <a href="../../page/factsPage/index.php">Food Facts</a> |
         <a href="../../page/categoriesPage/index.php">Categories</a> |
+    </div>
+    <div class="welcome-banner">
+        <h1>Tasty Types!</h1>
+        <p>Explore different types of food, from healthy bites to guilty pleasures!</p>
     </div>
     <div class="card">
         <h2>Food Categories</h2>

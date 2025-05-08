@@ -35,3 +35,38 @@ form button:hover {
     box-shadow: 0 8px 20px rgba(9, 132, 227, 0.4);
     transform: translateY(-2px);
 }
+
+.welcome-banner {
+    background-image: url('../../assets/img/factsbg.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 80px 20px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.7);
+    margin-bottom: 20px;
+    border-radius: 12px;
+    min-height: 60vh;
+
+    /* Centering content */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.welcome-banner h1,
+.welcome-banner p {
+    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5); /* Better readability */
+}
+
+.welcome-banner h1 {
+    font-size: 4rem;
+    margin-bottom: 10px;
+}
+
+.welcome-banner p {
+    font-size: 2rem;
+    max-width: 600px;
+}

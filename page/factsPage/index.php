@@ -13,6 +13,10 @@
         <a href="../../page/factsPage/index.php">Food Facts</a> |
         <a href="../../page/categoriesPage/index.php">Categories</a> |
     </div>
+    <div class="welcome-banner">
+        <h1>Get to Know More About Food!</h1>
+        <p>Discover fun and surprising facts about your favorite foods!</p>
+    </div>
     <div class="card">
         <h2>Food Facts</h2>
 
