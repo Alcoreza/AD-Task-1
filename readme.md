@@ -106,30 +106,45 @@ The website identifies some food whether it belongs to the category of junk or h
 10. File Structure to follow below.
 
 ```
-AD-ProjectName
-└─ assets
-|   └─ css
-|   |   └─ name.css
-|   └─ img
-|   |   └─ name.jpeg/.jpg/.webp/.png
-|   └─ js
-|       └─ name.js
-└─ components
-|   └─ name.component.php
-└─ pages
-|  └─ pageName
-|     └─ assets
-|     |  └─ css
-|     |  |  └─ name.css
-|     |  └─ img
-|     |  |  └─ name.jpeg/.jpg/.webp/.png
-|     |  └─ js
-|     |     └─ name.js
-|     └─ index.php
-└─ utils
-|   └─ Name.utils.php
-└─ index.php
-└─ readme.md
+AD-Task-1
+├── assets
+│   ├── css
+│   │   └── global.css
+│   ├── img
+│       └──nyebe_white.png
+├── components
+│   └── example.component.php
+├── pages
+│   ├── categoriesPage
+│   │   ├── assets
+│   │   │   ├── css
+│   │   │   │   └── categories.css
+│   │   │   ├── img
+│   │   │       └── categoriesbg.jpg
+│   │   │
+│   │   └── index.php
+│   ├── factsPage
+│   │   ├── assets
+│   │   │   ├── css
+│   │   │   │   └── facts.css
+│   │   │   ├── img
+│   │   │       └── factsbg.jpg
+│   │   │
+│   │   └── index.php
+│   ├── landingPage
+│   │   ├── assets
+│   │   │   ├── css
+│   │   │   │   └── landingPage.css
+│   │   │   ├── img
+│   │   │   │   └── landingpagebg.jpg
+│   │   │
+│   │   │
+│   │   └── index.php
+├── utils
+│   └── Example.utils.php
+├── index.php
+└── readme.md
+
 ```
 > The following should be renamed: name.css, name.js, name.jpeg/.jpg/.webp/.png, name.component.php(but not the part of the `component.php`), Name.utils.php(but not the part of the `utils.php`)
 
