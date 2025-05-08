@@ -18,7 +18,12 @@
                 "The most stolen food in the world is cheese.",
                 "Cucumbers are 96% water."
             ];
-        
+
+            shuffle($facts);
+
+            for ( $i = 0; $i < 3; $i++) {
+                echo "<p> $facts[$i]</p>";
+            }
         ?>
     </div>
 </body>
