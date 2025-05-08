@@ -23,7 +23,12 @@
                 "Honey never spoils.",
                 "Bananas are berries, but strawberries aren't",
                 "The most stolen food in the world is cheese.",
-                "Cucumbers are 96% water."
+                "Cucumbers are 96% water.",
+                "The popsicle was invented by accident.",
+                "One fast food burger can contain meat from 100+ cows",
+                "Watermelon is both a fruit and a vegetable",
+                "Cucumbers are 96% water",
+                "The world’s hottest pepper can cause temporary blindness"
             ];
 
             shuffle($facts);
