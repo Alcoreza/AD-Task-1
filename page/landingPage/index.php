@@ -13,6 +13,10 @@
         <a href="../../page/factsPage/index.php">Food Facts</a> |
         <a href="../../page/categoriesPage/index.php">Categories</a> |
     </div>
+    <div class="welcome-banner">
+        <h1>Welcome to the Random Food Generator!</h1>
+        <p>Discover random foods and whether they're healthy or junk – just one click away.</p>
+    </div>
     <div class="card">
         <h2> Today's Random Food </h2>
         <?php

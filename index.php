@@ -26,6 +26,9 @@
                 "Fruit Bowl"=> "Healthy",
                 "Ramen"=> "Junk",
                 "Grilled Fish"=> "Healthy",
+                "Oatmeal"=> "Healthy",
+                "Avocado"=> "Healthy",
+                "Corn Dogs" => "Junk"
             ];
 
             $keys = array_keys($foods);

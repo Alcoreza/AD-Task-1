@@ -62,10 +62,12 @@ p {
     margin: 0 10px;
     display: inline-block;
     padding: 8px 12px;
+    transition: 0.4s ease-in-out;
+    border-radius: 6px;
 }
 .menu a:hover{
     background-color: #555;
-    border-radius: 6px
+    border-radius: 6px;
 }
 
 .refresh-button-container {
