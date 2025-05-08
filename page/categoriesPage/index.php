@@ -4,8 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Food Categories</title>
-    <link rel="stylesheet" href="assets\css\global.css">
-    <link rel="stylesheet" href="page\categoriesPage\assets\css\categories.css">
+    <link rel="stylesheet" href="assets/css/global.css">
+    <link rel="stylesheet" href="../../assets/css/categories.css">
+
 </head>
 <body>
     <div class="card">
@@ -31,7 +32,7 @@
             }
             echo "</ul>";
             echo "<h4>Junk Foods</h4><ul>";
-            foreach ($foods as $name => $type){
+            foreach ($foods as $name => $value){
                 if ($value == "Junk"){
                     echo "<li>$name</li>";
                 }
