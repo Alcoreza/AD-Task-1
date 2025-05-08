@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Food Facts</title>
     <link rel="stylesheet" href="../../assets/css/global.css">
+    <link rel="stylesheet" href="assets/css/facts.css">
 </head>
 <body>
     <div class="menu">
@@ -34,7 +35,7 @@
     </div>
     <div class="refresh-button-container">
         <form method="get">
-            <button type="submit">Refresh Fact List</button>
+            <button type="submit">Refresh Food List</button>
         </form>
     </div>
     <footer class="site-footer">
