@@ -23,8 +23,11 @@
             $keys = array_keys($foods);
             shuffle($keys);
 
-            for (&i = 0; $i < 3; $i++) {
-                
+            for ($i = 0; $i < 3; $i++) {
+                $food = $keys[$i];
+                $type = $foods[$food];
+                echo "<div class ='food-item><>$food</strong> - <span class='type'>.ucfirst($type).</span></div>";
+            }
         ?>
     </div>
 </body>
