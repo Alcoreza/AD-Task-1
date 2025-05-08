@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="card">
-        <h2> Today's Rando Food</h2>
+        <h2> Today's Random Food </h2>
         <?php
             $foods = [
                 "Pizza" => "Junk",
@@ -27,7 +27,7 @@
             for ($i = 0; $i < 3; $i++) {
                 $food = $keys[$i];
                 $type = $foods[$food];
-                echo "<div class ='food-item><>$food</strong> - <span class='type'>.ucfirst($type).</span></div>";
+                echo "<div class='food-item'><strong>{$food}</strong> - <span class='type'>" . ucfirst($type) . "</span></div>";
             }
         ?>
     </div>
