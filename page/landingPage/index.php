@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Random Food Generator</title>
     <link rel="stylesheet" href="../../assets/css/global.css">
+    <link rel="stylesheet" href="assets/css/landingPage.css">
 </head>
 <body>
     <div class="menu">
@@ -41,5 +42,14 @@
             <button type="submit">Refresh Food List</button>
         </form>
     </div>
+    <footer class="site-footer">
+    <div class="footer-content">
+        <p>&copy; <?php echo date("Y"); ?> Random Food Generator. All rights reserved.</p>
+        <div class="footer-links">
+            <a href="#">Privacy Policy</a>
+            <a href="#">Terms of Service</a>
+        </div>
+    </div>
+</footer>
 </body>
 </html>

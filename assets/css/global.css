@@ -1,7 +1,11 @@
+html, body {
+    height: 100%; 
+    margin: 0; 
+}
+
 body {
     font-family: sans-serif;
     background: #f8f8f8;
-    padding: 20px;
     margin: 0;
 }
 
@@ -12,6 +16,7 @@ body {
     margin: 20px auto;
     border-radius: 12px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    flex-grow: 1; 
 }
 
 .food-item{
@@ -49,6 +54,41 @@ body {
     margin-top: 20px;
     text-align: center;
 }
+
+.site-footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 14px;
+    margin-top: auto;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+
+.footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.footer-links {
+    margin-top: 10px;
+}
+
+.footer-links a {
+    color: #ccc;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+.footer-links a:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+
 
 @media (max-width: 600px){
     .menu a{
