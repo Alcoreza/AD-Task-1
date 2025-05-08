@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="page/landingPage/assets/css/landingPage.css">
 </head>
 <body>
+    <div class="main-content">
     <div class="menu">
         <a href="page/landingPage/index.php">Home</a> |
         <a href="page/factsPage/index.php">Food Facts</a> |
@@ -36,6 +37,7 @@
                 echo "<div class='food-item'><strong>{$food}</strong> - <span class='type'>" . ucfirst($type) . "</span></div>";
             }
         ?>
+    </div>
     </div>
     <div class="refresh-button-container">
         <form method="get">
