@@ -46,7 +46,7 @@
     </div>
     <div class="refresh-button-container">
         <form method="get">
-            <button type="submit">Refresh Food List</button>
+            <button type="submit">Refresh Fact List</button>
         </form>
     </div>
     <footer class="site-footer">
