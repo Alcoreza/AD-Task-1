@@ -70,3 +70,46 @@ form button:hover {
     font-size: 2rem;
     max-width: 600px;
 }
+
+.facts-title {
+    font-size: 2.8rem;
+    font-family: 'Lucida Sans', sans-serif;
+    margin: 10px 2.6rem 20px;
+    font-style: italic;
+    text-align: center;
+}
+
+.fact-card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 0 20px;    
+}
+
+.fact-card {
+    background: linear-gradient(to right, #fff8dc, #ffe4b5); /* soft gradient */
+    border-left: 6px solid #FF8303; /* colorful accent */
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    padding: 25px 20px;
+    max-width: 320px;
+    min-height: 140px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.7rem;
+    line-height: 1.6;
+    color: #333;
+    transition: transform 0.2s ease-in-out;
+    position: relative;
+}
+
+.fact-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+}
+
+.fact-card p::before {
+    content: "🍽️ ";
+    font-size: 1.3rem;
+}
+
