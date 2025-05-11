@@ -106,9 +106,22 @@ The website identifies some food whether it belongs to the category of junk or h
 AD-Task-1
 ├── assets
 │   ├── css
-│   │   └── global.css
+│   │   ├── global.css
+│   │   └── landingPage.css
 │   ├── img
-│       └──nyebe_white.png
+│   │   ├── avocado.jpg
+│   │   ├── burger.jpg
+│   │   ├── corn_dogs.jpg
+│   │   ├── fried_chicken.jpg
+│   │   ├── fruit_bowl.jpg
+│   │   ├── grilled_fish.jpg
+│   │   ├── landingpagebg.jpg
+│   │   ├── nyebe_white.png
+│   │   ├── oatmeal.jpg
+│   │   ├── pizza.jpg
+│   │   ├── ramen.jpg
+│   │   ├── salad.jpg
+│   │   └── sushi.jpg
 ├── components
 │   └── example.component.php
 ├── pages
@@ -116,27 +129,16 @@ AD-Task-1
 │   │   ├── assets
 │   │   │   ├── css
 │   │   │   │   └── categories.css
-│   │   │   ├── img
+│   │   │   └── img
 │   │   │       └── categoriesbg.jpg
-│   │   │
 │   │   └── index.php
-│   ├── factsPage
-│   │   ├── assets
-│   │   │   ├── css
-│   │   │   │   └── facts.css
-│   │   │   ├── img
-│   │   │       └── factsbg.jpg
-│   │   │
-│   │   └── index.php
-│   ├── landingPage
-│   │   ├── assets
-│   │   │   ├── css
-│   │   │   │   └── landingPage.css
-│   │   │   ├── img
-│   │   │   │   └── landingpagebg.jpg
-│   │   │
-│   │   │
-│   │   └── index.php
+│   └── factsPage
+│       ├── assets
+│       │   ├── css
+│       │   │   └── facts.css
+│       │   └── img
+│       │       └── factsbg.jpg
+│       └── index.php
 ├── utils
 │   └── Example.utils.php
 ├── index.php
@@ -151,7 +153,5 @@ AD-Task-1
 
 | Title        | Purpose                                                                       | Link          |
 | ------------ | ----------------------------------------------------------------------------- | ------------- |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Coolors | A website wherein there are a lot of color combinations to choose from. Used to select the colors for the website. | https://coolors.co/ |
+| W3Schools | Referenced for syntax and structure guidance during HTML/CSS development. | https://www.w3schools.com/html/ https://www.w3schools.com/css/  |
