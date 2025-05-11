@@ -6,13 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Random Food Generator</title>
     <link rel="stylesheet" href="assets/css/global.css">
-    <link rel="stylesheet" href="page/landingPage/assets/css/landingPage.css">
+    <link rel="stylesheet" href="assets/css/landingPage.css">
 </head>
 
 <body>
     <div class="main-content">
         <div class="menu">
-            <a href="page/landingPage/index.php">Home</a> |
+            <a href="index.php">Home</a> |
             <a href="page/factsPage/index.php">Food Facts</a> |
             <a href="page/categoriesPage/index.php">Categories</a> |
         </div>
@@ -44,7 +44,7 @@
                 for ($i = 0; $i < 3; $i++) {
                     $food = $keys[$i];
                     $type = $foods[$food];
-                    $imgPath = "page/landingPage/assets/img/" . strtolower(str_replace(' ', '_', $food)) . ".jpg"; 
+                    $imgPath = "assets/img/" . strtolower(str_replace(' ', '_', $food)) . ".jpg"; 
                 
                     echo "<div class='food-card'>";
                     echo "<img src='{$imgPath}' alt='{$food}' class='food-image'>";

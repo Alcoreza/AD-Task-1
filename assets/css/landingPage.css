@@ -37,7 +37,7 @@ form button:hover {
 }
 
 .welcome-banner {
-    background-image: url('../../assets/img/landingpagebg.jpg');
+    background-image: url('assets/img/landingpagebg.jpg');
     background-size: cover;
     background-position: center;
     color: white;
