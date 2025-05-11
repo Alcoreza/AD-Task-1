@@ -24,7 +24,7 @@ ul {
 
 .welcome-banner h1,
 .welcome-banner p {
-    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5); /* Better readability */
+    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5); 
 }
 
 .welcome-banner h1 {

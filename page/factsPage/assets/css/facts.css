@@ -49,7 +49,6 @@ form button:hover {
     border-radius: 12px;
     min-height: 60vh;
 
-    /* Centering content */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -58,7 +57,7 @@ form button:hover {
 
 .welcome-banner h1,
 .welcome-banner p {
-    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5); /* Better readability */
+    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5); 
 }
 
 .welcome-banner h1 {
@@ -88,8 +87,8 @@ form button:hover {
 }
 
 .fact-card {
-    background: linear-gradient(to right, #fff8dc, #ffe4b5); /* soft gradient */
-    border-left: 6px solid #FF8303; /* colorful accent */
+    background: linear-gradient(to right, #fff8dc, #ffe4b5);
+    border-left: 6px solid #FF8303;
     border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
     padding: 25px 20px;

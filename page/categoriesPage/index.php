@@ -38,15 +38,12 @@
                 "Corn Dogs" => "Junk"
             ];
 
-            // Group foods by type
             $grouped = ["Healthy" => [], "Junk" => []];
             foreach ($foods as $name => $type) {
                 $grouped[$type][] = $name;
             }
 
-            // Output one card per category
             foreach ($grouped as $type => $items) {
-                // add a class based on type for coloring
                 $typeClass = strtolower($type);
                 echo "<div class='category-card {$typeClass}'>";
                 echo "<h3>{$type} Foods</h3>";

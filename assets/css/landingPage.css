@@ -58,7 +58,7 @@ form button:hover {
 
 .welcome-banner h1,
 .welcome-banner p {
-    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5); /* Better readability */
+    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5); 
 }
 
 .welcome-banner h1 {
@@ -97,13 +97,13 @@ form button:hover {
     font-family: Verdana, sans-serif;
     min-height: 270px;
     color: black;
-    transition: all 0.3s ease; /* Smooth transition for hover effect */
+    transition: all 0.3s ease;
 }
 
 .food-card:hover {
-    transform: scale(1.05); /* Slightly increase size */
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2); /* More prominent shadow */
-    background-color: #f7f7f7; /* Slight background change on hover */
+    transform: scale(1.05); 
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2); 
+    background-color: #f7f7f7; 
 }
 
 .food-image {
@@ -111,11 +111,11 @@ form button:hover {
     height: 180px;
     object-fit: cover;
     border-radius: 8px;
-    transition: transform 0.3s ease; /* Smooth transition for image */
+    transition: transform 0.3s ease; 
 }
 
 .food-card:hover .food-image {
-    transform: scale(1.1); /* Slightly zoom in the image */
+    transform: scale(1.1); 
 }
 
 .food-name {
