@@ -36,3 +36,97 @@ ul {
     font-size: 2rem;
     max-width: 600px;
 }
+
+.categories-title {
+    font-size: 3rem;
+    font-family: 'Lucida Sans', sans-serif;
+    margin: 40px 2rem 20px;
+    text-align: center;
+    color: #F0E3CA;
+}
+
+.category-card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-between;
+    padding: 0 20px 40px;
+}
+
+.category-card {
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    padding: 25px 20px;
+    min-width: 200px;
+    box-sizing: border-box;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.category-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.category-card h3 {
+    margin-top: 0;
+    font-size: 2rem;
+    margin-bottom: 15px;
+    font-family: 'Segoe UI', sans-serif;
+    color: #333;
+}
+
+.category-card ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.category-card li {
+    margin: 8px 0;
+    font-size: 1.4rem;
+    line-height: 1.4;
+    position: relative;
+    padding-left: 24px;
+}
+
+.category-card li::before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    font-size: 1.6rem;
+    line-height: 1;
+}
+
+.category-card.healthy {
+    border-left: 6px solid #4CAF50;
+}
+
+.category-card.healthy h3,
+.category-card.healthy li::before {
+    color: #4CAF50;
+}
+
+.category-card.junk {
+    border-left: 6px solid #F44336;
+}
+
+.category-card.junk h3,
+.category-card.junk li::before {
+    color: #F44336;
+}
+
+@media (max-width: 768px) {
+    .category-card {
+        width: 45%;
+    }
+}
+
+@media (max-width: 600px) {
+    .category-card {
+        width: 100%;
+    }
+}
+
+
+
