@@ -94,6 +94,7 @@ form button:hover {
     text-align: center;
     font-family: Verdana, sans-serif;
     min-height: 270px;
+    color: black;
 }
 
 .food-image {

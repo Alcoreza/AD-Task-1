@@ -44,7 +44,7 @@
                 for ($i = 0; $i < 3; $i++) {
                     $food = $keys[$i];
                     $type = $foods[$food];
-                    $imgPath = "page/landingPage/assets/img/" . strtolower(str_replace(' ', '_', $food)) . ".jpg"; // e.g. pizza.jpg
+                    $imgPath = "page/landingPage/assets/img/" . strtolower(str_replace(' ', '_', $food)) . ".jpg"; 
                 
                     echo "<div class='food-card'>";
                     echo "<img src='{$imgPath}' alt='{$food}' class='food-image'>";

@@ -11,7 +11,7 @@
 
 <body>
     <div class="menu">
-        <a href="../../page/landingPage/index.php">Home</a> |
+        <a href="../../index.php">Home</a> |
         <a href="../../page/factsPage/index.php">Food Facts</a> |
         <a href="../../page/categoriesPage/index.php">Categories</a> |
     </div>
