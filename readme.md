@@ -77,12 +77,6 @@ The website identifies some food whether it belongs to the category of junk or h
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-#### Framework/Library
-
-#### Databases
-
-#### Deployment
-
 ## Rules, Practices and Principles
 
 <!-- Do not Change this -->
