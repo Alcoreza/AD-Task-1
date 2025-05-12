@@ -155,3 +155,17 @@ AD-Task-1
 | ------------ | ----------------------------------------------------------------------------- | ------------- |
 | Coolors | A website wherein there are a lot of color combinations to choose from. Used to select the colors for the website. | https://coolors.co/ |
 | W3Schools | Referenced for syntax and structure guidance during HTML/CSS development. | https://www.w3schools.com/html/ https://www.w3schools.com/css/  |
+| Pizza Image | Used for visual purposes of the pizza. | https://www.hunts.com/sites/g/files/qyyrlu211/files/uploadedImages/img_6934_48664.jpg |
+| Salad Image | Used for the visual purposes of the salad. | https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV5Yp0uPt-uqJ5udVjAL71-ArAIvCzE84nYQ&s |
+| Burger Image | Used for the visual purposes of the burger. | https://www.foodandwine.com/thmb/pwFie7NRkq4SXMDJU6QKnUKlaoI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Ultimate-Veggie-Burgers-FT-Recipe-0821-5d7532c53a924a7298d2175cf1d4219f.jpg |
+| Sushi Image | Used for the visual purposes of the sushi. | https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNlxClTgWSeEXC_pKBnrfczmFBBhNOXsQ8vQ&s |
+| Fried Chicken Image | Used for visual purposes of the fried chicken. | https://www.allrecipes.com/thmb/q-IfK20zxeyp1DgKWhrVp6CQ43w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-89268-triple-dipped-fried-chicken-beauty-4x3-3961ac838ddd41958e7cb9f49376cd68.jpg |
+| Fruit Bowl Image | Used for visual purposes of the fruit bowl. | https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqFIlTiQJDGT65VEDXcK6Hygc5DX8uD_MtAA&s |
+| Ramen Image | Used for visual purposes of the ramen. | https://static01.nyt.com/images/2024/01/10/multimedia/ND-Shoyu-Ramen-qflv/ND-Shoyu-Ramen-qflv-mediumSquareAt3X.jpg |
+| Grilled Fish Image | Used for visual purposes of the grilled fish. | https://thesecretsuppersociety.com/wp-content/uploads/2022/06/Greek-Style-Grilled-Fish-1-500x375.jpg |
+| Oatmeal Image | Used for visual purposes of the oatmeal. | https://www.veggieinspired.com/wp-content/uploads/2015/05/healthy-oatmeal-berries-featured.jpg |
+| Avocado Image | Used for visual purposes of the avocado. | https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF3FPRycwLmB3ignmMUj_Hx3-QLCfMEfWhFg&s |
+| Corn Dog Image | Used for visual purposes of the corn dogs. | https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIIz-7BodsVvfpoLyh9oSXnCasZzHdFceRYg&s |
+
+
+
