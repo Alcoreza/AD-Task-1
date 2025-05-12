@@ -82,7 +82,6 @@ The website identifies some food whether it belongs to the category of junk or h
 #### Databases
 
 #### Deployment
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## Rules, Practices and Principles
 
