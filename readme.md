@@ -100,7 +100,7 @@ AD-Task-1
 ├── assets
 │   ├── css
 │   │   ├── global.css
-│   │   └── landingPage.css
+│   │   └── landingpage.css
 │   ├── img
 │   │   ├── avocado.jpg
 │   │   ├── burger.jpg
