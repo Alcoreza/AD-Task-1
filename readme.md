@@ -123,7 +123,6 @@ AD-Task-1
 │   │   ├── salad.jpg
 │   │   └── sushi.jpg
 ├── components
-│   └── example.component.php
 ├── pages
 │   ├── categoriesPage
 │   │   ├── assets
@@ -140,7 +139,6 @@ AD-Task-1
 │       │       └── factsbg.jpg
 │       └── index.php
 ├── utils
-│   └── Example.utils.php
 ├── index.php
 └── readme.md
 
